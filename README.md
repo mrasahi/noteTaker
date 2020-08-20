@@ -2,6 +2,9 @@
 
 Homework11 - Makoto Asahi
 
+Deployed heroku link: 
+https://pure-gorge-17986.herokuapp.com/
+
 # Description
 This app will allow users to write notes on the page and save them.
 
