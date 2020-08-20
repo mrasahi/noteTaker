@@ -33,9 +33,9 @@ Once downloaded, users can locally host the server by running `server.js` in nod
 
 Notes are stored in the db folder under db.json.
 
-<img src="./assets/img/preview1.jpg" width = "100%">
+<img src="./preview/preview1.jpg" width = "100%">
 
-<img src="./assets/img/preview2.jpg" width = "100%">
+<img src="./preview/preview2.jpg" width = "100%">
 
-<img src="./assets/img/preview3.jpg" width = "100%">
+<img src="./preview/preview3.jpg" width = "100%">
 
