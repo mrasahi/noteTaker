@@ -5,6 +5,7 @@ const fs = require('fs')
 // cool random unique id generator
 const uuid = require('uuid')
 
+// /api will already be defined in index.js when this page is called
 
 // Get
 router.get('/notes', (req, res) => {
